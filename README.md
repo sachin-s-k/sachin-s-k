@@ -14,28 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi, I'm a Backend Engineer
+## 👋 Hi, I'm Sachin K Siby
 
-Backend Engineer with hands-on experience in Java and Spring Boot. Passionate about building scalable and reliable backend systems. I enjoy designing clean architectures, developing RESTful APIs, and solving complex problems through efficient algorithms.
 
+Backend Developer specializing in **Java and Spring Boot**, with experience building scalable backend systems and RESTful APIs. Also experienced with **JavaScript, TypeScript, and Node.js** for developing modern web applications. Passionate about clean architecture, distributed systems, and cloud-based applications.
 
 ### 🚀 What I'm Currently Working On
-- Building scalable backend services using **Java** and **Spring Boot**
-- Designing and developing **RESTful APIs**
-- Improving **Data Structures & Algorithms (DSA)**
-- Learning **system design** and backend scalability
+- Building scalable backend services and microservices
+- Designing RESTful APIs and improving system architecture
+- Strengthening **Data Structures & Algorithms**
+- Exploring **cloud infrastructure and DevOps practices**
 
 
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript, TypeScript  
+**Backend:** Node.js, Spring Boot, REST APIs, Microservices  
+**Frontend:** React.js, Redux, Tailwind CSS  
+**Databases:** MySQL, MongoDB, PostgreSQL, Redis  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, NGINX  
+**Tools:** Kafka, RabbitMQ, WebSockets, Postman, Swagger, JWT
 
-### 🛠 Tech Stack & Tools
-- **Languages:** Java  
-- **Frameworks:** Spring Boot  
-- **Databases:** MySQL  
-- **Concepts:** Object-Oriented Programming, REST APIs, System Design  
-- **Tools:** Git, GitHub, Maven
-
-
-### 📈 Current Focus
-- Writing clean and maintainable backend code  
-- Building real-world backend projects  
-- Strengthening problem-solving and algorithmic thinking
+### 📌 Interests
+- Backend system design
+- Scalable distributed systems
+- Cloud-native applications
+- Clean architecture and DevOps
