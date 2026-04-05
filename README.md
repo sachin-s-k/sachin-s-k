@@ -29,12 +29,13 @@ Backend Developer specializing in **Java and Spring Boot**, with experience buil
 
 
 ### 🛠 Tech Stack
+
 **Languages:** Java, JavaScript, TypeScript  
-**Backend:** Spring Boot, Node.js, REST APIs, Microservices 
+**Backend:** Spring Boot, Node.js, REST APIs, Microservices  
 **Databases:** MySQL, MongoDB, PostgreSQL, Redis  
 **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, NGINX  
-**Tools:** Kafka, RabbitMQ, WebSockets, Postman, Swagger, JWT
-**Frontend:** React.js, Redux, Tailwind CSS  
+**Tools:** Kafka, RabbitMQ, WebSockets, Postman, Swagger, JWT  
+**Frontend:** React.js, Redux, Tailwind CSS
 
 
 ### 📌 Interests
