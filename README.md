@@ -20,22 +20,20 @@ Here are some ideas to get you started:
 Backend Developer specializing in **Java and Spring Boot**, with experience building scalable backend systems and RESTful APIs. Also experienced with **JavaScript, TypeScript, and Node.js** for developing modern web applications. Passionate about clean architecture, distributed systems, and cloud-based applications.
 
 
-### 🚀 What I'm Currently Working On
-- Building scalable backend services and microservices
-- Designing RESTful APIs and improving system architecture
-- Strengthening **Data Structures & Algorithms**
-- Exploring **cloud infrastructure and DevOps practices**
-
-
-
 ### 🛠 Tech Stack
-
 **Languages:** Java, JavaScript, TypeScript  
 **Backend:** Spring Boot, Node.js, REST APIs, Microservices  
 **Databases:** MySQL, MongoDB, PostgreSQL, Redis  
 **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, NGINX  
 **Tools:** Kafka, RabbitMQ, WebSockets, Postman, Swagger, JWT  
 **Frontend:** React.js, Redux, Tailwind CSS
+
+
+### 🚀 What I'm Currently Working On
+- Building scalable backend services and microservices
+- Designing RESTful APIs and improving system architecture
+- Strengthening **Data Structures & Algorithms**
+- Exploring **cloud infrastructure and DevOps practices**
 
 
 ### 📌 Interests
