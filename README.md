@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Backend Engineer with hands-on experience in Java and Spring Boot. Passionate about building scalable and reliable backend systems. I enjoy designing clean architectures, developing RESTful APIs, and solving complex problems through efficient algorithms.
 
----
 
 ### 🚀 What I'm Currently Working On
 - Building scalable backend services using **Java** and **Spring Boot**
@@ -26,7 +25,7 @@ Backend Engineer with hands-on experience in Java and Spring Boot. Passionate ab
 - Improving **Data Structures & Algorithms (DSA)**
 - Learning **system design** and backend scalability
 
----
+
 
 ### 🛠 Tech Stack & Tools
 - **Languages:** Java  
@@ -35,7 +34,6 @@ Backend Engineer with hands-on experience in Java and Spring Boot. Passionate ab
 - **Concepts:** Object-Oriented Programming, REST APIs, System Design  
 - **Tools:** Git, GitHub, Maven
 
----
 
 ### 📈 Current Focus
 - Writing clean and maintainable backend code  
